@@ -4,17 +4,19 @@ A simple GUI-based invoice generator developed using Python and Tkinter.
 
 ## Features
 
- Enter customer name
- Enter item name
- Enter quantity and price
- Automatically calculate the total bill
- Display the generated invoice
- Clear all fields
+## Features
+
+- Enter customer name
+- Enter item name
+- Enter quantity and price
+- Automatically calculate the total bill
+- Display the generated invoice
+- Clear all fields
 
 ## Technologies Used
 
-Python
-  Tkinter
+-Python
+-Tkinter
 
 ## How to Run
 
